@@ -109,11 +109,14 @@ ul{
     color: white; /* White text color */
 }
 
-.html {width: 90%; background-color: #4CAF50;} /* Green */
-.css {width: 90%; background-color: #2196F3;} /* Blue */
-.js {width: 80%; background-color: #f44336;} /* Red */
-.php {width: 60%; background-color: #808080;} /* Dark Grey */
+.html {width: 100%; background-color: #E34C26;}
+.css {width: 100%; background-color: #2196F3;} /* Blue */
+.js {width: 90%; background-color: #edda4f;}
+.bootstrap {width: 100%; background-color: #643497;}
+.php {width: 100%; background-color: #808080;} /* Dark Grey */
 .mysql {width: 50%; background-color: blueviolet;}
+.wordpress {width: 75%; background-color: #016087;}
+.laravel {width: 10%; background-color: #F05340;}
 
 /* CSS TIMELINE */
 #intro3 {
