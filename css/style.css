@@ -114,9 +114,9 @@ ul{
 .js {width: 90%; background-color: #edda4f;}
 .bootstrap {width: 100%; background-color: #643497;}
 .php {width: 100%; background-color: #808080;} /* Dark Grey */
-.mysql {width: 50%; background-color: blueviolet;}
+.mysql {width: 75%; background-color: blueviolet;}
 .wordpress {width: 75%; background-color: #016087;}
-.laravel {width: 10%; background-color: #F05340;}
+.laravel {width: 25%; background-color: #F05340;}
 
 /* CSS TIMELINE */
 #intro3 {
